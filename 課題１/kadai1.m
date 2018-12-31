@@ -1,5 +1,5 @@
 clear;
-ORG=imread('kadai1.jpg');
+ORG=imread('https://www.j-wave.co.jp/blog/news/images/180428_2.jpg');
 imagesc(ORG); axis image;
 pause;
 
